@@ -19,9 +19,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       
-      - name: Generate npm lock
-        run: npm install --package-lock-only
-      
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
