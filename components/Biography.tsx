@@ -8,9 +8,9 @@ export const Biography = () => {
       <div className="grid lg:grid-cols-12 gap-12">
         <div className="lg:col-span-5 relative">
            <img 
-            src="https://oscaramuz.com/wp-content/uploads/2025/12/OMG04911.jpg" 
-            alt="Oscar Speaking" 
-            className="rounded-lg shadow-2xl w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
+            src="https://oscaramuz.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-02-at-11.09.53-AM-scaled.jpeg" 
+            alt="Oscar Amuz" 
+            className="rounded-lg shadow-2xl w-full h-full object-cover transition-all duration-500"
           />
           <div className="absolute bottom-6 right-6 bg-brand-accent text-brand-dark p-4 rounded-lg shadow-lg max-w-xs">
             <p className="font-heading font-bold text-lg">"El liderazgo real comienza con la inclusión."</p>
